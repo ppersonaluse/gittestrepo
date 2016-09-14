@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
     // This is a test file.
     printf("Hello World");
+    return 0;
 }
